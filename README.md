@@ -59,7 +59,7 @@ To use the implemented data structures, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/data-structures-python.git
+git clone https://github.com/Dappa88/data-structures.git
 ```
 
 2. Navigate to the directory of the specific data structure you want to explore.
